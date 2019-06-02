@@ -73,6 +73,12 @@
     <Compile Include="frmAccounts.Designer.cs">
       <DependentUpon>frmAccounts.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmBanQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBanQuyen.Designer.cs">
+      <DependentUpon>frmBanQuyen.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmBook.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -164,6 +170,9 @@
     <Compile Include="UserService.cs" />
     <EmbeddedResource Include="frmAccounts.resx">
       <DependentUpon>frmAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBanQuyen.resx">
+      <DependentUpon>frmBanQuyen.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmBook.resx">
       <DependentUpon>frmBook.cs</DependentUpon>

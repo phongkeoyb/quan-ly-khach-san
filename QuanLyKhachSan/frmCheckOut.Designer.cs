@@ -145,7 +145,7 @@
             // 
             // edtMaNV
             // 
-            this.edtMaNV.Location = new System.Drawing.Point(184, 123);
+            this.edtMaNV.Location = new System.Drawing.Point(184, 211);
             this.edtMaNV.Name = "edtMaNV";
             this.edtMaNV.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtMaNV.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -189,7 +189,7 @@
             this.btnXuatHoaDon.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXuatHoaDon.Appearance.Options.UseFont = true;
             this.btnXuatHoaDon.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnXuatHoaDon.ImageOptions.Image")));
-            this.btnXuatHoaDon.Location = new System.Drawing.Point(351, 600);
+            this.btnXuatHoaDon.Location = new System.Drawing.Point(351, 688);
             this.btnXuatHoaDon.Name = "btnXuatHoaDon";
             this.btnXuatHoaDon.Size = new System.Drawing.Size(335, 38);
             this.btnXuatHoaDon.StyleController = this.layoutControl1;
@@ -202,7 +202,7 @@
             this.btnThanhToan.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThanhToan.Appearance.Options.UseFont = true;
             this.btnThanhToan.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnThanhToan.ImageOptions.Image")));
-            this.btnThanhToan.Location = new System.Drawing.Point(12, 600);
+            this.btnThanhToan.Location = new System.Drawing.Point(12, 688);
             this.btnThanhToan.Name = "btnThanhToan";
             this.btnThanhToan.Size = new System.Drawing.Size(335, 38);
             this.btnThanhToan.StyleController = this.layoutControl1;
@@ -212,7 +212,7 @@
             // 
             // edtSoNguoi
             // 
-            this.edtSoNguoi.Location = new System.Drawing.Point(184, 557);
+            this.edtSoNguoi.Location = new System.Drawing.Point(184, 645);
             this.edtSoNguoi.Name = "edtSoNguoi";
             this.edtSoNguoi.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtSoNguoi.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -224,7 +224,7 @@
             // 
             // radGioiTinh
             // 
-            this.radGioiTinh.Location = new System.Drawing.Point(184, 252);
+            this.radGioiTinh.Location = new System.Drawing.Point(184, 340);
             this.radGioiTinh.Name = "radGioiTinh";
             this.radGioiTinh.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radGioiTinh.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -241,7 +241,7 @@
             // edtNgayTra
             // 
             this.edtNgayTra.EditValue = null;
-            this.edtNgayTra.Location = new System.Drawing.Point(184, 514);
+            this.edtNgayTra.Location = new System.Drawing.Point(184, 602);
             this.edtNgayTra.Name = "edtNgayTra";
             this.edtNgayTra.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtNgayTra.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -260,7 +260,7 @@
             // edtNgayThue
             // 
             this.edtNgayThue.EditValue = null;
-            this.edtNgayThue.Location = new System.Drawing.Point(184, 471);
+            this.edtNgayThue.Location = new System.Drawing.Point(184, 559);
             this.edtNgayThue.Name = "edtNgayThue";
             this.edtNgayThue.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtNgayThue.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -278,7 +278,7 @@
             // 
             // edtDiaChi
             // 
-            this.edtDiaChi.Location = new System.Drawing.Point(184, 428);
+            this.edtDiaChi.Location = new System.Drawing.Point(184, 516);
             this.edtDiaChi.Name = "edtDiaChi";
             this.edtDiaChi.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtDiaChi.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -290,7 +290,7 @@
             // 
             // edtEmail
             // 
-            this.edtEmail.Location = new System.Drawing.Point(184, 385);
+            this.edtEmail.Location = new System.Drawing.Point(184, 473);
             this.edtEmail.Name = "edtEmail";
             this.edtEmail.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtEmail.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -302,7 +302,7 @@
             // 
             // edtSDT
             // 
-            this.edtSDT.Location = new System.Drawing.Point(184, 342);
+            this.edtSDT.Location = new System.Drawing.Point(184, 430);
             this.edtSDT.Name = "edtSDT";
             this.edtSDT.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtSDT.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -314,7 +314,7 @@
             // 
             // edtCMND
             // 
-            this.edtCMND.Location = new System.Drawing.Point(184, 299);
+            this.edtCMND.Location = new System.Drawing.Point(184, 387);
             this.edtCMND.Name = "edtCMND";
             this.edtCMND.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtCMND.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -326,7 +326,7 @@
             // 
             // edtTenKH
             // 
-            this.edtTenKH.Location = new System.Drawing.Point(184, 209);
+            this.edtTenKH.Location = new System.Drawing.Point(184, 297);
             this.edtTenKH.Name = "edtTenKH";
             this.edtTenKH.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtTenKH.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -338,7 +338,7 @@
             // 
             // edtMaKH
             // 
-            this.edtMaKH.Location = new System.Drawing.Point(184, 166);
+            this.edtMaKH.Location = new System.Drawing.Point(184, 254);
             this.edtMaKH.Name = "edtMaKH";
             this.edtMaKH.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtMaKH.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -350,7 +350,7 @@
             // 
             // edtMaPhong
             // 
-            this.edtMaPhong.Location = new System.Drawing.Point(184, 80);
+            this.edtMaPhong.Location = new System.Drawing.Point(184, 168);
             this.edtMaPhong.Name = "edtMaPhong";
             this.edtMaPhong.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtMaPhong.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -364,7 +364,7 @@
             // 
             // edtMaThuePhong
             // 
-            this.edtMaThuePhong.Location = new System.Drawing.Point(184, 37);
+            this.edtMaThuePhong.Location = new System.Drawing.Point(184, 125);
             this.edtMaThuePhong.Name = "edtMaThuePhong";
             this.edtMaThuePhong.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edtMaThuePhong.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -380,7 +380,7 @@
             this.labelControl1.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.labelControl1.Appearance.Options.UseFont = true;
             this.labelControl1.Appearance.Options.UseForeColor = true;
-            this.labelControl1.Location = new System.Drawing.Point(245, -1);
+            this.labelControl1.Location = new System.Drawing.Point(245, 87);
             this.labelControl1.Name = "labelControl1";
             this.labelControl1.Size = new System.Drawing.Size(208, 19);
             this.labelControl1.StyleController = this.layoutControl1;
@@ -389,7 +389,7 @@
             // 
             // cbPhongThue
             // 
-            this.cbPhongThue.Location = new System.Drawing.Point(184, -61);
+            this.cbPhongThue.Location = new System.Drawing.Point(184, 27);
             this.cbPhongThue.Name = "cbPhongThue";
             this.cbPhongThue.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbPhongThue.Properties.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
