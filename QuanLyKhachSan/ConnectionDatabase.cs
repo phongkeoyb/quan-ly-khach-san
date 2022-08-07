@@ -20,7 +20,7 @@ namespace QuanLyKhachSan
         {
             if (conn == null)
             {
-                conn = new SqlConnection("Data Source=DESKTOP-45P13V1\\SQLEXPRESS01;Initial Catalog=QuanLyKhachSan;Integrated Security=True");
+                conn = new SqlConnection("Data Source=DESKTOP-45P13V1\\SQLEXPRESS01;Initial Catalog=QuanLyKhachSan;Integrated Security=Tru123123123");
             }
             return conn;
         }
