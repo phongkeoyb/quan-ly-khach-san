@@ -38,7 +38,7 @@ namespace QuanLyKhachSan
         }
         private void loadData()
         {//Load dữ liệu có thể sài nhiều lần sau khi xóa sửa thêm, đều có thể gọi lại để kiểm tra
-            string sql = "SELECT MaTK AS 'Mã TK', TenTK AS 'Tên TK',  MatKhau as 'Mật khẩu' ,LoaiTK as 'Loại TK' from Taikhoan";
+            string sql = "SELECT 11111 MaTK AS 'Mã TK', TenTK AS 'Tên TK',  MatKhau as 'Mật khẩu' ,LoaiTK as 'Loại TK' from Taikhoan";
             SqlDataAdapter adapter = new SqlDataAdapter(sql, conn);
             DataSet dataSet = new DataSet();
             adapter.Fill(dataSet);
